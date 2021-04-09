@@ -6,8 +6,8 @@
 ## I'm a PhD student，NLPer and Teaching assistant!
 
 - 👩‍💻 I’m learning pre-training models and their capabilities in dialogue state tracking
-- 🧐 I'm seeking research internship in natural language for summer 2021 🤞
-- ⛳️ 2020 Goals:  A Long paper to finish
+- 🧐 I'm seeking research internship in natural language for Fall 2021 🤞
+- ⛳️ 2021 Goals:  Ph.D. Proposal
 - 😋 Fun fact: I love movies and photo shoots
 
 ### Connect with me:
