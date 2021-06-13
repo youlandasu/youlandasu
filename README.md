@@ -6,7 +6,7 @@
 ## I'm a PhD student，NLPer and Teaching assistant!
 
 - 👩‍💻 I’m learning pre-training models and their capabilities in dialogue state tracking
-- 🧐 I'm seeking research internship in natural language for Fall 2021 🤞
+- 🧐 I'll be an Applied Scientist Intern at Amazon during Fall 2021 👏 It'll be my 3rd internship.
 - ⛳️ 2021 Goals:  Ph.D. Proposal
 - 😋 Fun fact: I love movies and photo shoots
 
