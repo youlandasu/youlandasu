@@ -3,11 +3,11 @@
 [![Website](https://img.shields.io/website?label=youlandasu.github.io&style=for-the-badge&url=https%3A%2F%2Fyoulandasu.github.io)](https://youlandasu.github.io)
 [![Twitter Follow](https://img.shields.io/twitter/follow/ruolin_su?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fruolin_su&screen_name=ruolin_su)
 
-## I'm a PhD student，NLPer and Teaching assistant!
+## I'm a Ph.D. candidate, NLPer, and Teaching assistant!
 
 - 👩‍💻 I’m learning pre-training models and their capabilities in dialogue state tracking
-- 🧐 I'll be an Applied Scientist Intern at Amazon during Fall 2021 👏 It'll be my 3rd internship.
-- ⛳️ 2021 Goals:  Ph.D. Proposal
+- 👩🏻‍🎓 I've finished three NLP internships and passed my dissertation proposal defense.
+- ⛳️ 2022 Goals:  Full-time job as an NLP engineer and major progress on my thesis
 - 😋 Fun fact: I love movies and photo shoots
 
 ### Connect with me:
